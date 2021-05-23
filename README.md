@@ -1,3 +1,6 @@
+<p align="left"> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/5da51502478cbb243eb85bce7104fd5a530bdafee9b943a3b5a607eae972f1ce/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b68757368626f6f676f656c3031266c6162656c3d50726f66696c65253230766965777326636f6c6f723d313239653030267374796c653d706c6173746963"><img src="https://camo.githubusercontent.com/5da51502478cbb243eb85bce7104fd5a530bdafee9b943a3b5a607eae972f1ce/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b68757368626f6f676f656c3031266c6162656c3d50726f66696c65253230766965777326636f6c6f723d313239653030267374796c653d706c6173746963" alt="khushboogoel01" data-canonical-src="https://komarev.com/ghpvc/?username=khushboogoel01&amp;label=Profile%20views&amp;color=129e00&amp;style=plastic" style="max-width:100%;"></a> </p>
+
+
 <h1 align="center">Hi 👋, I'm Devendra</h1>
 <h3 align="center">A passionate frontend developer, I love coffee and web stuffs!</h3>
 
@@ -13,11 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tweetsofdp" target="_blank"><img align="center" src="https://camo.githubusercontent.com/28bbd2596707954793abeff9eb24d343c1c78b7bf184b90294b4b190c6097a65/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="khushboogoel01" height="30" width="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;"></a>
-<a href="https://linkedin.com/in/devendra-pratap-90b000211" target="_blank"><img align="center" src="" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/devendra-pratap" target="_blank"><img align="center" src="" alt="devendra-pratap" height="30" width="40" /></a>
-<a href="https://instagram.com/imdevendrapratap" target="_blank"><img align="center" src="" alt="imdevendrapratap" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dev2888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="dev2888" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devendra-pratap-90b000211" target="_blank"><img align="center" src="https://camo.githubusercontent.com/28bbd2596707954793abeff9eb24d343c1c78b7bf184b90294b4b190c6097a65/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="tweetsofdp" height="30" width="40" data-canonical-src="" style="max-width:100%;"></a>
+<a href="https://instagram.com/imdevendrapratap" target="_blank"><img align="center" src="https://camo.githubusercontent.com/aecaf87326884e8b0466bb799265a13fee7586246ebda3e066cb7fad82a1fd23/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f696e7374616772616d2e737667" alt="imdevendrapratap" height="30" width="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
